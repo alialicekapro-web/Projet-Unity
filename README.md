@@ -1,1 +1,2 @@
-Voici un projet que j'ai réalisé sur unity lors d'un cours.
+Voici un projet que j’ai réalisé sur Unity. Lors de ce cours, nous avons appris à créer un jeu de plateformes où nous incarnons notre personnage principal, qui doit survivre à ses ennemis. Le projet a été entièrement codé par nos soins en C# avec l'aide de notre prof qui nous grandement guidé.
+En plus de la programmation, nous avons utilisé Des animations et sprites 2D pour donner vie aux personnages et aux ennemis, ainsi que les systèmes de collision et de physique de Unity pour gérer les interactions entre les objets du jeu.
